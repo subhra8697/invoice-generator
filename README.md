@@ -10,7 +10,7 @@ Welcome to the Invoice Generator App! This application allows users to easily cr
 * Responsive design for use on various devices
 
 ## Demo
- You can try a live demo of the app [here](invoice-generator-k21jfvj5s-subhra8697s-projects.vercel.app)
+ You can try a live demo of the app [here](invoice-generator-six-sigma.vercel.app)
 
 ## Usage
 1. Create a new invoice
