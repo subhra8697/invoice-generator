@@ -9,6 +9,9 @@ Welcome to the Invoice Generator App! This application allows users to easily cr
 * Download invoices as PDF
 * Responsive design for use on various devices
 
+## Demo
+ You can try a live demo of the app [here](invoice-generator-k21jfvj5s-subhra8697s-projects.vercel.app)
+
 ## Usage
 1. Create a new invoice
 
@@ -28,3 +31,6 @@ Welcome to the Invoice Generator App! This application allows users to easily cr
 * Redux: State management
 * Styled-components: For styling components
 * html2canvas and jsPDF: For generating PDFs from HTML
+
+## License
+This project is licensed under the [MIT License](./LICENSE).
